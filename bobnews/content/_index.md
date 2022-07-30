@@ -1,26 +1,61 @@
 ---
 title: "Bob News Network | Home"
 tags: ['Home']
+date: 2022-07-29T23:59:21-07:00
 ---
 
-![test](/logo2.png#logo)
+![logo](/logo2.png#logo)
 
 **Want the Truth? Bob Delivers! We Have Videos, a Newsletter, Premium, and Live Streams!**
+
+
+
+[![Home](/homebutton.png#button)](/)
+[![Videos](/videosbutton.png#button)](/videos)
+[![Premium](/premiumbutton.png#button)](/premium)
+[![Privacy](/privacybutton.png#button)](/privacy)
+[![About Us](/aboutusbutton.png#button)](/aboutus)
+[![Who is Bob](/whoisbobbutton.png#button)](/whoisbob)
+[![Streams](/streamsbutton.png#button)](/streams)
+[![Weather](/weatherbutton.png#button)](/weather)
+[![Jobs](/jobsbutton.png#button)](/jobs)
+
+
 ---
 
+# **Videos**
 
 
+{{< youtube ytNeeFTMnU4 >}}
 
-![homebutton](/homebutton.png#button)
-![videosbutton](/videosbutton.png#button)
-![premiumbutton](/premiumbutton.png#button)
-![privacybutton](/privacybutton.png#button)
-![aboutusbutton](/aboutusbutton.png#button)
-![whoisbobbutton](/whoisbobbutton.png#button)
-![streamsbutton](/streamsbutton.png#button)
-![weatherbutton](/weatherbutton.png#button)
-![jobsbutton](/jobsbutton.png#button)
+[![All Videos](/morevideosbutton.png#button2)](/videos)
 
 ---
-**Videos**
+
+# **Streams**
+
+{{< youtube DoVEsUIBYXg >}}
+
+[![All Streams](/morestreamsbutton.png#button2)]()
+
+
 ---
+
+# **Weather**
+
+{{< youtube 2fQt3-pIbck >}}
+
+[![Previous Forecasts](/forecastbutton.png#button2)]()
+
+---
+
+# **Updates**
+
+![MostRecentUpdate](/Features.png#update)
+
+[![All Updates](/allupdatesbutton.png#button2)]()
+
+---
+
+You Can Contact Us At bobnews@protonmail.com
+We Do Not Have An Office Space        

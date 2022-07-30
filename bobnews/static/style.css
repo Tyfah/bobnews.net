@@ -9,7 +9,18 @@ body {
 main {
 	max-width: 800px ;
 	margin: auto ;
-	text-align: center ;	
+	text-align: center ;
+	font-size: larger ;	
+}
+
+img[src$='#update'] {
+	max-width: 50% ;
+
+}
+
+img[src$='#button2'] {
+	max-width: 30% ;
+
 }
 
 img[src$='#logo'] {

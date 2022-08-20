@@ -13,6 +13,16 @@ main {
 	font-size: larger ;	
 }
 
+img[src$='#newsletter']{
+	max-width: 40%
+
+}
+
+img[src$='#team'] {
+	max-width: 40% ;
+	
+}
+
 img[src$='#update'] {
 	max-width: 50% ;
 

@@ -16,13 +16,15 @@ date: 2022-07-29T23:59:21-07:00
 [![Newsletter](/newsletterbutton.png#button)](/sign-up)
 
 
-
-
 ---
 
 
 # **Here are all of Bob News Network's Videos**
 # If you wish to see all the past live streams [click here](/streams).
+
+---
+
+{{< a-ads >}}
 
 ---
 

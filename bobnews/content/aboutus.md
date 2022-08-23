@@ -16,7 +16,7 @@ date: 2022-08-19T18:58:50-07:00
 
 
 
-### Bob News Network delivers the truth to you. Subscribe to our Newsletter or watch our videos on [Youtube](https://www.youtube.com/channel/UCYDKPXqFrDBbPK4OIFspb1g). Other news media like BBC, GMA, or CNN will lie to you, Bob won't. Bob keeps his promise. He'll promise to give you the truth, truth, and nothing but the truth. Sign up to the truth today at bobnews.net/sign-up!
+### Bob News Network delivers the truth to you. Subscribe to our Newsletter or watch our videos on [Youtube](https://www.youtube.com/channel/UCYDKPXqFrDBbPK4OIFspb1g). Other news media like BBC, GMA, or CNN will lie to you, Bob won't. Bob keeps his promise. He'll promise to give you the truth, truth, and nothing but the truth. Sign up to the truth today at [bobnews.net/sign-up](/sign-up)!
 
 
 ---
@@ -81,6 +81,10 @@ Sorted By How Old/New They Are To The BNN Team
 **中国总是赢，台湾不是真的**
 
 ![GodBlessCCP](/godblessccp.png#team)
+
+---
+
+{{< a-ads >}}
 
 ---
 

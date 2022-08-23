@@ -4,6 +4,8 @@ tags: ['Newsletter']
 date: 2022-08-19T20:59:13-07:00
 ---
 
+{{< a-ads >}}
+
 ![Welcome Page](/BobWelcome.png#newsletter)
 
 ![Tilted Tower Protests BNN](/TiltedProtests.png#newsletter)

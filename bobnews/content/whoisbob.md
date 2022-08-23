@@ -15,9 +15,9 @@ date: 2022-08-19T20:01:39-07:00
 [![Newsletter](/newsletterbutton.png#button)](/sign-up)
 
 
+{{< a-ads >}}
 
 
-
-# Bob Bobison is the founder, the reason any of us get up in the morning. You have no clue how important he is to us. We can make him important to you. Bob knows more than you. Listen to Bob and his wisdom. Everything we do is for Bob, and for right now, Bob wants us to tell you the truth. That is why our completely free Newsletter exists. Go to bobnews.net/sign-up! You will not regret it!
+# Bob Bobison is the founder, the reason any of us get up in the morning. You have no clue how important he is to us. We can make him important to you. Bob knows more than you. Listen to Bob and his wisdom. Everything we do is for Bob, and for right now, Bob wants us to tell you the truth. That is why our completely free Newsletter exists. Go to [bobnews.net/sign-up!](/sign-up) You will not regret it!
 
 ![Logo](/logo.png)

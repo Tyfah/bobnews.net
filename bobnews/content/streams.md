@@ -21,7 +21,6 @@ date: 2022-08-19T20:26:35-07:00
 
 **Click [Here](https://www.youtube.com/playlist?list=PLBaSIbvfFde5f8qEWTY0qChvuB8UeyDwl) To See The Past Streams Playlist**
 
----
 
 {{< youtube DoVEsUIBYXg  >}}
 

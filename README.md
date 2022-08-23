@@ -1,8 +1,8 @@
 # Bob News Network Website
-New Bob News Network Website Created With Hugo.
+New Bob News Network Website Created With Hugo and the Lugo theme made by Luke Smith.
 
 This website is made to replace the old BNN website that was made with google sites with an actual website developed by TwitchPrimeAmazon.
-The website is not finished yet and has just started its development.
+The website has essentially finished development and will be released replacing the old website shortly.
 
 
 # Notes from TwitchPrimeAmazon

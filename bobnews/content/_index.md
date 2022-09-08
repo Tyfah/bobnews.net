@@ -37,7 +37,7 @@ date: 2022-07-29T23:59:21-07:00
 
 {{< youtube DoVEsUIBYXg >}}
 
-[![All Streams](/morestreamsbutton.png#button2)]()
+[![All Streams](/morestreamsbutton.png#button2)](/streams)
 
 
 ---
@@ -52,7 +52,7 @@ date: 2022-07-29T23:59:21-07:00
 
 ![MostRecentUpdate](/Features.png#update)
 
-[![All Updates](/allupdatesbutton.png#button2)]()
+[![All Updates](/allupdatesbutton.png#button2)](/updates)
 
 
 
@@ -60,7 +60,6 @@ date: 2022-07-29T23:59:21-07:00
 
 
 
-You Can Contact Us At bobnews@protonmail.com .
-We Do Not Have An Office.
+You Can Contact Us At *bobnews@protonmail.com* .
 You Can Donate Us Monero At
 ###### 46zYc59ntqLQKQeoGVeeag8Pum9T29GPCg8PwbaMmx9QjagGrhbXhK5GrcN8irYUK3HGr1fCcCwB5Gcxg5zwL4bGBgjZuKs  
